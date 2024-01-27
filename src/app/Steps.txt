@@ -1,0 +1,9 @@
+1. step :-
+   Creat a file name :-
+    Store , Provider and slice
+2. Write a code for store , and Provider, then add provider in Layout
+and then make Slice with the logic of 
+
+3. Now add action from the slice to the to UI component using Disptach
+
+4. from slice we have to import action with useing useDispatch hook
