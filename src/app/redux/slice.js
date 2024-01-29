@@ -12,6 +12,7 @@ const { createSlice, nanoid } = require("@reduxjs/toolkit");
  * imporatant -> action and reducer should be single feature
  */
 
+
 const initialState = {
     users : []
 };
